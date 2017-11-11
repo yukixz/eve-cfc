@@ -1,0 +1,14 @@
+{
+  "name": "cfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Dazzy Ding",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-latest-node6": "^0.1.1",
+    "express": "^4.16.2",
+    "multer": "^1.3.0",
+    "sqlite": "^2.8.0"
+  }
+}

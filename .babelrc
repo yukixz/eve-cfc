@@ -1,0 +1,4 @@
+{
+  presets: ["latest-node6"],
+  compact: false,
+}
